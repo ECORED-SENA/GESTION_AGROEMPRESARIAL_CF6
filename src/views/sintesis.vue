@@ -4,8 +4,6 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
   
-    p.mb-5 En este punto, le invitamos a visualizar con atención el esquema que aquí se presenta; analice su estructura, conceptos y referencias teórico prácticas. Recuerde registrar lo más importante, en su libreta personal de apuntes.
-
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

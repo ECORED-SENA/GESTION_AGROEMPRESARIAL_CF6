@@ -38,7 +38,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Buenas prácticas pecuarias',
+        titulo: 'Supervisión de labores técnicas',
         desarrolloContenidos: true,
       },
     ],
@@ -83,7 +83,7 @@ export default {
   },
   referencias: [
     {
-      referencia: 'FINAGRO. 2021. El Momento del Agro',
+      referencia: 'FINAGRO. 2021. El Momento del Agro.',
       link: 'https://www.finagro.com.co/noticias/el-momento-del-agro',
     },
     {
@@ -153,21 +153,22 @@ export default {
   complementario: [
     {
       tema: 'Marco normativo',
-      referencia: 'ICA, Instituto Colombiano Agropecuario. (s.f.). Leyes.',
+      referencia:
+        'ICA, Instituto Colombiano Agropecuario. (s.f.). <i>Leyes.</i>',
       tipo: 'Página web',
       link: 'https://www.ica.gov.co/normatividad/normas-nacionales/leyes',
     },
     {
       tema: 'Supervisión de labores técnicas ',
       referencia:
-        'Jsilveragro. [Jsilveragro].  (2020, 5 de noviembre). Manejo Fitosanitario en Cacao [vídeo].',
+        'Jsilveragro. [Jsilveragro].  (2020, 5 de noviembre).<i> Manejo Fitosanitario en Cacao </i>[vídeo].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6jzBGKHPX1M',
     },
     {
       tema: 'Supervisión de labores técnicas',
       referencia:
-        'TvAgro. [TvAgro].  (2019, 20 de diciembre). Cómo Manejar las Plagas y Enfermedades en un Cultivo [vídeo].',
+        'TvAgro. [TvAgro].  (2019, 20 de diciembre). Cómo <i>Manejar las Plagas y Enfermedades en un Cultivo</i> [vídeo].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=14aE1jSI2EQ',
     },
@@ -194,13 +195,13 @@ export default {
       },
       {
         nombre: 'Alex García',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
           'Centro de la Industria, la Empresa y Los Servicios - CIES Regional Norte de Santander.',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Asesora Metodológica',
+        cargo: 'Asesora metodológica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
@@ -251,7 +252,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

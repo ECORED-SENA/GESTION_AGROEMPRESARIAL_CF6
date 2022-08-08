@@ -5,17 +5,17 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 1
-      h1 Proceso de ventas
+      h1 Marco normativo 
 
     p.mb-3 La legislación colombiana es una de las más completas con una serie de leyes, decretos, resoluciones, entre otras que en su mayoría están encaminadas a que las actividades agrícolas sean eficientes y acordes con las necesidades de la población. También existen normas que se han creado con las mejores intenciones pero que sus aplicaciones han retrasado y afectando la producción agrícola.
 
-    p.mb-5 A continuación, se relacionan algunas de las principales leyes vigentes en Colombia 
+    p.mb-5 A continuación, se relacionan algunas de las principales leyes vigentes en Colombia:
 
     .tarjeta.tarjeta--gris.p-4.fondo.mb-5(data-aos="zoom-in-down")
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 160 de 1994:</b> Por medio de la cual se crea el sistema nacional de reforma agraria y desarrollo rural campesino.
+            p <b>Ley 160 de 1994:</b> por medio de la cual se crea el sistema nacional de reforma agraria y desarrollo rural campesino.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -25,12 +25,12 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 607 de 2000:</b> Por medio de la cual se modifica la creación, funcionamiento y operación de las unidades de asistencia técnica agropecuaria UMATA.
+            p <b>Ley 607 de 2000:</b> por medio de la cual se modifica la creación, funcionamiento y operación de las unidades de asistencia técnica agropecuaria UMATA.
           
                   
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p Ley 731 de 2002: Por la cual se dictan normas para favorecer a las mujeres rurales
+            p <b>Ley 731 de 2002:</b> por la cual se dictan normas para favorecer a las mujeres rurales
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -39,12 +39,12 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 811 de 2003:</b> Por medio de la cual se modifica la ley 101 de 1993, se crean las organizaciones de cadenas en el sector agropecuario, pesquero, forestal, acuícola, las sociedades de transformación, SAT y se dictan otras disposiciones.
+            p <b>Ley 811 de 2003:</b> por medio de la cual se modifica la ley 101 de 1993, se crean las organizaciones de cadenas en el sector agropecuario, pesquero, forestal, acuícola, las sociedades de transformación, SAT y se dictan otras disposiciones.
           
 
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 1133 de 2007:</b> Por medio de la cual se crea e implementa el programa “Agro Ingreso Seguro – AIS”.
+            p <b>Ley 1133 de 2007:</b> por medio de la cual se crea e implementa el programa “Agro Ingreso Seguro – AIS”.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3 
@@ -54,12 +54,12 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 1561 de 2012:</b> Por la cual se establece un proceso verbal especial para otorgar títulos de propiedad al poseedor material de bienes inmuebles urbanos y rurales de pequeña entidad económica.
+            p <b>Ley 1561 de 2012:</b> por la cual se establece un proceso verbal especial para otorgar títulos de propiedad al poseedor material de bienes inmuebles urbanos y rurales de pequeña entidad económica.
           
           
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 1731 del 2014:</b> Por la cual se adoptan medidas en materia de financiamiento para la reactivación del sector agropecuario, pesquero, acuícola, forestal y agroindustrial.
+            p <b>Ley 1731 del 2014:</b> por la cual se adoptan medidas en materia de financiamiento para la reactivación del sector agropecuario, pesquero, acuícola, forestal y agroindustrial.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -70,11 +70,11 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 1776 de 2016:</b> Por la cual se crean y se desarrollan las zonas de desarrollo rural, económico y social, ZIDRES.
+            p <b>Ley 1776 de 2016:</b> por la cual se crean y se desarrollan las zonas de desarrollo rural, económico y social, ZIDRES.
           
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 1876 de 2017:</b> Por medio de la cual se crea el sistema nacional de innovación agropecuaria.
+            p <b>Ley 1876 de 2017:</b> por medio de la cual se crea el sistema nacional de innovación agropecuaria.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -84,12 +84,12 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 1900 de 2018:</b> Por medio de la cual se establecen criterios de equidad de géneros en la adjudicación de las tierras baldías, vivienda rural, proyectos productivos.
+            p <b>Ley 1900 de 2018:</b> por medio de la cual se establecen criterios de equidad de géneros en la adjudicación de las tierras baldías, vivienda rural, proyectos productivos.
 
 
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 2046 de 2020:</b> Por la cual se establecen mecanismos para  promover la participación de pequeños productores locales agropecuarios y de la agricultura campesina, familiar y comunitaria en los mercados de compras públicas de alimentos.
+            p <b>Ley 2046 de 2020:</b> por la cual se establecen mecanismos para  promover la participación de pequeños productores locales agropecuarios y de la agricultura campesina, familiar y comunitaria en los mercados de compras públicas de alimentos.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -99,11 +99,11 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 2071 de 2020:</b> Por medio de la cual se adoptan medidas en materia de financiamiento para la reactivación del sector agropecuario, pesquero, acuícola, forestal y agroindustrial.
+            p <b>Ley 2071 de 2020:</b> por medio de la cual se adoptan medidas en materia de financiamiento para la reactivación del sector agropecuario, pesquero, acuícola, forestal y agroindustrial.
 
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 2178 de 2021:</b> Por medio de la cual se otorga seguridad jurídica y financiera al seguro agropecuario.
+            p <b>Ley 2178 de 2021:</b> por medio de la cual se otorga seguridad jurídica y financiera al seguro agropecuario.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -113,17 +113,17 @@
             figure
               img(src="@/assets/curso/images/tema1/img_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-md-6.lg-5
-            p <b>Ley 2169 de 2021:</b> Por medio de la cual se impulsa el desarrollo bajo en carbono del país mediante el establecimiento de metas y medidas mínimas en materia de carbono neutralidad y resiliencia climática.
+            p <b>Ley 2169 de 2021:</b> por medio de la cual se impulsa el desarrollo bajo en carbono del país mediante el establecimiento de metas y medidas mínimas en materia de carbono neutralidad y resiliencia climática.
 
 
         .row.justify-content-center.align-items-center(titulo="")
           .col-md-6.lg-5
-            p <b>Ley 2183 de 2022:</b> Por medio de la cual se constituye el sistema nacional de insumos agropecuarios, se establece la política nacional de insumos agropecuarios, se crea el fondo de acceso a los insumos agropecuarios.
+            p <b>Ley 2183 de 2022:</b> por medio de la cual se constituye el sistema nacional de insumos agropecuarios, se establece la política nacional de insumos agropecuarios, se crea el fondo de acceso a los insumos agropecuarios.
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/images/tema1/img_1_1.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
 
-    p.mb-5 Si desea conocer la legislación vigente, en el material complementario encontrará un enlace que lo llevará a las Normas Nacionales.
+    p.mb-5 Si desea conocer la legislación vigente, en el material complementario encontrará un enlace que lo llevará a las <b>Normas Nacionales.</b>
 
     ol.lista-ol--cuadro
       li 

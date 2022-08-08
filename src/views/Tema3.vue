@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 3
-      h1 Buenas prácticas pecuarias
+      h1 Supervisión de labores técnicas
 
     p.mb-3 En las empresas agrícolas la supervisión es algo que va de la mano con la producción, debido a la constante vigilancia que se debe realizar a los cultivos y al personal de cada proceso por el arduo trabajo que se desempeña. Es preciso tener en cuenta que la supervisión debe estar a cargo de un profesional íntegro que tenga buenas relaciones con sus subalternos y que expresen sus inconformidades con el respeto necesario para la determinada situación.
 
@@ -19,7 +19,7 @@
             img(src='@/assets/curso/images/tema3/ico_1.svg' alt='AvatarTop')
           .tarjeta.color-custom-5
             .p-4
-              p.mt-3 <b>1.</b> Estar bien enterado del personal y su trabajo
+              p.mt-3 <b>1.</b> Estar bien enterado del personal y su trabajo.
 
       .col-lg-6
         .tarjeta-avatar-b.mb-5
@@ -322,7 +322,7 @@
               span 5
             p.mb-3  <b>Labores culturales:</b> el cruce de información con otros productores siempre es una retroalimentación asertiva que trae beneficios para los sistemas, debido a que en la agricultura siempre se está innovando y desarrollando nuevas técnicas de producción.
       
-          p.px-4.mb-0 La participan en conferencias, simposios o en alguna actividad cultural donde se traten temas relacionados con el sector o no, es reconfortante para los operadores o el personal que participe en dichas actividades 
+          p.px-4.mb-0 Participan en conferencias, simposios o en alguna actividad cultural donde se traten temas relacionados con el sector o no, es reconfortante para los operadores o el personal que participe en dichas actividades 
  
       .col-lg-6.mb-3(data-aos="fade-right") 
         img(src='@/assets/curso/images/tema3/img_21.png'  alt='')
@@ -334,7 +334,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 
-            p.mb-3  Impactos ambientales
+            p.mb-3  <b>Impactos ambientales</b>
           .cajon.color-custom-9.p-4         
             p.mb-0 La evaluación de los impactos ambientales producidos antes y después de la implementación de las actividades productivas, es el punto de partida para planificar las acciones pertinentes para la mitigación o corrección de las actividades que generen graves impactos al ambiente.
 

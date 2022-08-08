@@ -95,7 +95,9 @@
             p.mb-3 La contratación de personal calificado y no calificado con conocimientos previos de las actividades a desarrollar es una garantía para la ejecución de las actividades proyectadas, eso no significa que no se le pueda brindar oportunidades a gente con conocimientos teóricos los cuales están en la vanguardia respecto a las nuevas tecnologías.
   
 
-            p.mb-0 En toda organización el recurso más importante es el talento humano, por esto es importante garantizar las condiciones adecuadas para que el trabajo realizado en finca se haga de manera eficiente y velando por la seguridad e integridad física y mental de los trabajadores.
+            p.mb-3 En toda organización el recurso más importante es el talento humano, por esto es importante garantizar las condiciones adecuadas para que el trabajo realizado en finca se haga de manera eficiente y velando por la seguridad e integridad física y mental de los trabajadores.
+
+            p.mb-0 Y para garantizar las condiciones laborales adecuadas, se recomienda tener en cuenta lo siguiente:
             
           .col-lg-5.mb-3(data-aos="fade-right") 
             img(src='@/assets/curso/images/tema2/img_3.svg'  alt='')
@@ -145,7 +147,7 @@
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
-              span a.
+              span b.
             h3 Determinar necesidades de materiales:
 
         p.mb-0 al momento de realizar la asignación de los recursos se relacionan los materiales que se necesitan para el proyecto, sin embargo, es pertinente revisar a detalle cada proceso para no pasar por alto alguna situación que más adelante se haga necesaria.
@@ -166,7 +168,7 @@ export default {
       {
         titulo: 'Afiliar',
         texto:
-          'A los trabajadores de tiempo completo, a una entidad prestadora de salud (EPS) y a una aseguradora de Riesgos Laborales (ARL) En el caso de los trabajadores ocasionales, deben estar cubiertos por estos servicios, como hecho previo al momento de su contratación..',
+          'A los trabajadores de tiempo completo, a una entidad prestadora de salud (EPS) y a una aseguradora de Riesgos Laborales (ARL) En el caso de los trabajadores ocasionales, deben estar cubiertos por estos servicios, como hecho previo al momento de su contratación.',
         imagen: require('@/assets/curso/images/tema2/img_5.png'),
       },
       {
