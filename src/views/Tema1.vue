@@ -157,7 +157,7 @@
           span 
         h3 Ambiental
 
-    p.mb-5 Entorno a lo ambiental, se deben tener en cuenta todos los impactos generados por la actividad productiva sobre los ecosistemas aledaños con cuencas de agua, suelos, población y en general todos los factores que puedan ser afectados por la actividad agrícola.
+    p.mb-5 En torno a lo ambiental, se deben tener en cuenta todos los impactos generados por la actividad productiva sobre los ecosistemas aledaños con cuencas de agua, suelos, población y en general todos los factores que puedan ser afectados por la actividad agrícola.
 
     .row.justify-content-center.align-items-center.mb-5  
         .col-lg-10

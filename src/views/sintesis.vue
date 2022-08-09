@@ -3,7 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-  
+    .titulo-sexto.color-acento-botones
+      h5 Gestión agroempresarial 
+      span #[br] Síntesis: control de labores en la producción agrícola
+
+
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
