@@ -28,8 +28,8 @@
 
     figure.mb-5
       .video(data-aos="zoom-in-down")
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rjEXBPGQcDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12(data-aos="fade")
         .row.align-items-center.justify-content-center.mb-5 
