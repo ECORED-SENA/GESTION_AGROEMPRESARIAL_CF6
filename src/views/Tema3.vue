@@ -147,7 +147,7 @@
                   span
                 h3 Plan de manejo integral del cultivo 
             
-            p.mb-3 Se define como el manejo de todos los factores de la producción agrícola dentro de una contexto ecológico, económico y social el cual está regido por varios factores. Veamos ahora cuáles son los principales factores de producción agrícola:
+            p.mb-3 Se define como el manejo de todos los factores de la producción agrícola dentro de uno contexto ecológico, económico y social, el cual está regido por varios factores. Veamos ahora cuáles son los principales factores de producción agrícola:
 
             ul.lista-ul--color
               li 
@@ -322,7 +322,7 @@
               span 5
             p.mb-3  <b>Labores culturales:</b> el cruce de información con otros productores siempre es una retroalimentación asertiva que trae beneficios para los sistemas, debido a que en la agricultura siempre se está innovando y desarrollando nuevas técnicas de producción.
       
-          p.px-4.mb-0 Participan en conferencias, simposios o en alguna actividad cultural donde se traten temas relacionados con el sector o no, es reconfortante para los operadores o el personal que participe en dichas actividades 
+          p.px-4.mb-0 Participan en conferencias, simposios o en alguna actividad cultural donde se traten temas relacionados con el sector o no, es reconfortante para los operadores o el personal que participe en dichas actividades. 
  
       .col-lg-6.mb-3(data-aos="fade-right") 
         img(src='@/assets/curso/images/tema3/img_21.png'  alt='')

@@ -5,7 +5,7 @@
 
     .titulo-sexto.color-acento-botones
       h5 Gestión agroempresarial 
-      span #[br] Síntesis: control de labores en la producción agrícola
+      span #[br] Síntesis: Control de labores en la producción agrícola
 
 
     .row.justify-content-center

@@ -101,7 +101,7 @@ export default {
     },
     {
       referencia:
-        'Revista ARQHYS. 2012, 12. Técnicas de supervisión. Equipo de colaboradores y profesionales de la revista ARQHYS.com..',
+        'Revista ARQHYS. 2012, 12. Técnicas de supervisión. Equipo de colaboradores y profesionales de la revista ARQHYS.com.',
       link: 'https://www.arqhys.com/construccion/supervision-tecnicas.html',
     },
     {
@@ -131,9 +131,9 @@ export default {
         'Consiste en proporcionar nutrientes que las plantas necesitan para que sea plenamente productiva en cantidad.',
     },
     {
-      termino: 'Impacto ambiental ',
+      termino: 'Impacto ambiental',
       significado:
-        'Es la alteración o modificación que causa una acción humana o natural  sobre el ambiente. ',
+        'Es la alteración o modificación que causa una acción humana o natural  sobre el ambiente.',
     },
     {
       termino: 'Inocuidad',

@@ -150,7 +150,7 @@
               span b.
             h3 Determinar necesidades de materiales:
 
-        p.mb-0 al momento de realizar la asignación de los recursos se relacionan los materiales que se necesitan para el proyecto, sin embargo, es pertinente revisar a detalle cada proceso para no pasar por alto alguna situación que más adelante se haga necesaria.
+        p.mb-0 Al momento de realizar la asignación de los recursos se relacionan los materiales que se necesitan para el proyecto, sin embargo, es pertinente revisar a detalle cada proceso para no pasar por alto alguna situación que más adelante se haga necesaria.
 
 </template>
 

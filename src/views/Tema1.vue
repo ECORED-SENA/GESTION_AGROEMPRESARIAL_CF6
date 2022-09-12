@@ -188,17 +188,17 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 1
-                | Identificar las fuentes de agua (a utilizar en las diferentes labores)
+                | Identificar las fuentes de agua (a utilizar en las diferentes labores).
               hr
               li
                 .lista-ol--cuadro__vineta
                   span 2
-                | Incluir análisis microbiológicos (de acuerdo con su uso)
+                | Incluir análisis microbiológicos (de acuerdo con su uso).
               hr
               li
                 .lista-ol--cuadro__vineta
                   span 3
-                | Incluir análisis fisicoquímicos (de acuerdo con su uso)
+                | Incluir análisis fisicoquímicos (de acuerdo con su uso).
               hr
             
             p.mb-0 Cuando los resultados de los análisis no cumplan con los estándares permitidos, se debe realizar tratamiento a las aguas y llevar registros documentales que evidencien su manejo. Además, se deben definir acciones que promuevan la protección de las fuentes hídricas, como un plan de uso racional de agua que contemple mantenimiento y medidas de control de pérdidas y llevar registro de todas estas acciones.
