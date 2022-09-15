@@ -84,7 +84,7 @@ export default {
   referencias: [
     {
       referencia: 'FINAGRO. 2021. El Momento del Agro.',
-      link: 'https://www.finagro.com.co/noticias/el-momento-del-agro',
+      link: 'https://www.finagro.com.co/noticias/momento-del-agro',
     },
     {
       referencia: 'Gómez. D. Los Ciclos Agrícolas.',
